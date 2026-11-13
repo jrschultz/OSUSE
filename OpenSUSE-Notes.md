@@ -70,4 +70,23 @@ sudo firewall-cmd --list-ports
 sudo firewall-cmd --reload
 ```
 
+## 🔍 ICONS
+
+📥 Install Papirus icons & folders script
+
+```bash
+sudo zypper in papirus-icon-theme papirus-folders
+```
+
+🟢 Change colours
+
+```bash
+papirus-folders -C green --theme Papirus-Dark
+```
+
+📋 List colours
+
+```bash
+papirus-folders --list
+```
 
