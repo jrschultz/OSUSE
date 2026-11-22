@@ -112,7 +112,13 @@ sudo firewall-cmd --reload
 
 ## 🔍 ICONS
 
-📥 **Install Papirus icons & folders script**
+💫 **Refresh the icon cache:**
+
+```bash
+sudo gtk-update-icon-cache -f -t /usr/share/icons/NEWICONS
+```
+
+📥 **Install Papirus Icons & Folders Script**
 
 ```bash
 sudo zypper in papirus-icon-theme papirus-folders
@@ -129,6 +135,13 @@ papirus-folders -C green --theme Papirus-Dark
 ```bash
 papirus-folders --list
 ```
+
+📥 **Gruvbox Icons**
+
+```bash
+git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git
+```
+
 
 ## 🔠 MS FONTS
 
