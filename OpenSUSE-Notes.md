@@ -151,6 +151,11 @@ git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git
 sudo zypper in fetchmsttfonts
 ```
 
+## 🧩 GNOME EXTENSIONS
 
+👣Blur My Shell
 
+👣Dash to Dock
+
+👣SimpleWeather
 
