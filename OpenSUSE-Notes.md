@@ -143,13 +143,17 @@ git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git
 ```
 
 
-## 🔠 MS FONTS
+## 🔠 FONTS
 
 **This is the equivalent of** ```ttf-mscorefonts-installer```
 
 ```bash
 sudo zypper in fetchmsttfonts
 ```
+
+**Terminal Font**
+
+[Ioskeley Mono](https://github.com/ahatem/IoskeleyMono)
 
 ## 🧩 GNOME EXTENSIONS
 
