@@ -3,7 +3,7 @@
 theme = catppuccin-mocha.conf
 
 # FONTS
-font-family = Ioskeley Mono Term Nerd Font Semi Bold
+font-family = Ioskeley Mono Nerd Font Semi Bold
 font-size = 16
 
 # WINDOW APPEARANCE
